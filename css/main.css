@@ -1,0 +1,31 @@
+.title {
+    color: #ff9d00;
+    text-align: center;
+}
+
+.notes {
+    color: #d3d3d3;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.introduce {
+    width: 500px;
+    text-align: left;
+    font-family: sans-serif;
+    margin: 10px 10px 10px 10px auto;
+    border: 3px solid #000000;
+    padding: 3px 3px 3px 3px;
+    background-color: #d3d3d3;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.introduceTitle {
+    size: 20px;
+    color: #ff9d00;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: #000000 1px 1px 1px;
+    font-size: 20px;
+}
